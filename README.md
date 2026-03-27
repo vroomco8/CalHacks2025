@@ -2,10 +2,10 @@
 
 **Contributors** : Varun Chakka, Sathvik Lingaram, Iha Gadiya, Shlok Powar
 
-<img width="240" height="570" alt="image" src="https://github.com/user-attachments/assets/ef7ab9c5-dcc5-457a-bcc1-9899b9305522" />
-<img width="240" height="570" alt="image" src="https://github.com/user-attachments/assets/820ad598-baa6-4437-b13b-a66ddf100e26" />
-<img width="240" height="570" alt="image" src="https://github.com/user-attachments/assets/f0996e5f-c4a6-4c8d-aeee-69b437252830" />
-<img width="240" height="570" alt="image" src="https://github.com/user-attachments/assets/58d9d845-a1a8-4c76-88dc-088b852e7e51" />
+<img width="200" height="570" alt="image" src="https://github.com/user-attachments/assets/ef7ab9c5-dcc5-457a-bcc1-9899b9305522" />
+<img width="200" height="570" alt="image" src="https://github.com/user-attachments/assets/820ad598-baa6-4437-b13b-a66ddf100e26" />
+<img width="200" height="570" alt="image" src="https://github.com/user-attachments/assets/f0996e5f-c4a6-4c8d-aeee-69b437252830" />
+<img width="200" height="570" alt="image" src="https://github.com/user-attachments/assets/58d9d845-a1a8-4c76-88dc-088b852e7e51" />
 
 ## Inspiration 💡
 
